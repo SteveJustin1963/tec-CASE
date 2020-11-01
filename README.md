@@ -1,2 +1,2 @@
 # tec-CASE
-TEC-1 plastic case
+TEC-1 mounting case
