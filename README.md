@@ -14,3 +14,6 @@ Now for some wood
 
 https://www.rapidonline.com/retex-abox-console-cases-530146
 
+## Iterate
+
+make a 300 in 1 electronics style case, swappable panels, use recycles plastic, etc 
